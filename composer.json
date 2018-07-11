@@ -1,5 +1,5 @@
 {
-    "name": "sylius/settings-bundle",
+    "name": "kiczort/settings-bundle",
     "type": "symfony-bundle",
     "description": "Settings system for Symfony2 applications, editable via web user interface.",
     "keywords": ["config", "configuration", "settings", "shop", "webshop", "ecommerce"],
@@ -23,7 +23,7 @@
         "php": "^5.5.9|^7.0",
 
         "doctrine/doctrine-cache-bundle": "~1.0",
-        "sylius/resource-bundle": "0.16.*",
+        "kiczort/resource-bundle": "0.16.2",
         "symfony/framework-bundle": "^2.7.5"
     },
     "require-dev": {
